@@ -2,8 +2,8 @@
 
 This repository contains example code related to "Multi-Agent AI" publications.
 
-The Bitter Truth: Python 3.11 vs Cython vs C++ Performance for Simulations
-A speed comparison using a scientific simulation. Is Python finally ready for this task?
+- *The Bitter Truth: Python 3.11 vs Cython vs C++ Performance for Simulations
+A speed comparison using a scientific simulation. Is Python finally ready for this task?*
 
 Currently, code from this repository is featured in 
 - Medium: https://medium.com/@multiagentai
